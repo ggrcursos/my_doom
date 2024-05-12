@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "DOOMNET.C": "cpp",
+        "IPXNET.C": "cpp"
+    }
+}
